@@ -1,0 +1,10 @@
+package pactice;
+
+public class C9 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
